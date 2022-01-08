@@ -83,7 +83,6 @@ Police Job for QB-Core Framework :police_officer:
 - /impound - Impounds nearby vehicle permanently.
 - /paytow [id] - Makes payment to the tow driver.
 - /paylawyer [id] - Makes payment to the lawyer.
-- /radar - Toggles the police radar.
 - /911 [message] - Sends a report to emergency services.
 - /911r [id] - Used to respond the emergency alerts.
 - /911a [message] - Sends an anonymous report to emergency services (gives no location).
